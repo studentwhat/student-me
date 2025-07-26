@@ -1,3 +1,3 @@
 # student-me
-this is my first repository 
-author - whatstudent
+this is my first git repository. 
+Author - whatstudent
